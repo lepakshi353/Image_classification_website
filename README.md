@@ -1,1 +1,2 @@
 # Image_classification_website
+Since github has space limit of 100 MB , I couldn't upload the trained model file but I have uploaded the entire code to train the file. Moreover, a video named website_working has also been uploaded to show the complete working of the website.
